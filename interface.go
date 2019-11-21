@@ -1,4 +1,4 @@
-package CloudStore
+package cloudstore
 
 import (
 	"time"
