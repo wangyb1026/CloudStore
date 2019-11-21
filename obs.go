@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"obs"
+	"CloudStore/huawei/obs"
 )
 
 type OBS struct {
