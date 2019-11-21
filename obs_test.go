@@ -4,11 +4,12 @@ import (
 	"bytes"
 	"fmt"
 	"io/ioutil"
-	"obs"
 	"os"
 	"testing"
 
 	"github.com/astaxie/beego"
+
+	"CloudStore/huawei/obs"
 )
 
 var Obs *OBS
