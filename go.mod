@@ -1,4 +1,4 @@
-module github.com/internet-dev/CloudStore
+module github.com/wangyb1026/CloudStore
 
 go 1.13
 
