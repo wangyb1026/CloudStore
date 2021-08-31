@@ -9,8 +9,8 @@ require (
 	github.com/go-ini/ini v1.51.0 // indirect
 	github.com/minio/minio-go v6.0.14+incompatible
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
-	github.com/qiniu/api.v7 v7.2.5+incompatible
-	github.com/qiniu/x v7.0.8+incompatible // indirect
+	github.com/qiniu/api.v7 v7.8.2+incompatible
+	github.com/qiniu/x v1.7.8+incompatible // indirect
 	github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644 // indirect
 	github.com/tencentyun/cos-go-sdk-v5 v0.0.0-20191108095731-8ca4b370cde4
 	github.com/upyun/go-sdk v2.1.0+incompatible
@@ -20,5 +20,4 @@ require (
 	golang.org/x/text v0.3.2 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	gopkg.in/yaml.v2 v2.2.7 // indirect
-	qiniupkg.com/x v7.0.8+incompatible // indirect
 )
